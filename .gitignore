@@ -1,2 +1,4 @@
 *.db
 Temp/UnityLockfile
+*.userprefs
+Library/
